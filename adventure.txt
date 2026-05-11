@@ -1,0 +1,82 @@
+=========================================
+       D&D ADVENTURE — Lab Simulation     
+=========================================
+A level 3 party encounters a Dire Wolf!
+Heroes: Aragorn the Warrior, Merlin the Wizard, Shadow the Rogue.
+
+--- Round 1 ---
+  Aragorn the Warrior advances to (2, 2).
+  Merlin the Wizard advances to (3, 3).
+  Shadow the Rogue advances to (2, 4).
+  Grok the Orc the Monster advances to (17, 7).
+--- Round 2 ---
+  Aragorn the Warrior advances to (3, 3).
+  Merlin the Wizard advances to (4, 4).
+  Shadow the Rogue advances to (3, 5).
+  Grok the Orc the Monster advances to (16, 6).
+--- Round 3 ---
+  Aragorn the Warrior advances to (4, 4).
+  Merlin the Wizard advances to (5, 5).
+  Shadow the Rogue advances to (4, 6).
+  Grok the Orc the Monster advances to (15, 5).
+--- Round 4 ---
+  Aragorn the Warrior advances to (5, 5).
+  Merlin the Wizard advances to (6, 5).
+  Shadow the Rogue advances to (5, 5).
+  Grok the Orc the Monster advances to (14, 5).
+--- Round 5 ---
+  Aragorn the Warrior advances to (6, 5).
+  Merlin the Wizard advances to (7, 5).
+  Shadow the Rogue advances to (6, 5).
+  Grok the Orc the Monster advances to (13, 5).
+--- Round 6 ---
+  Aragorn the Warrior advances to (7, 5).
+  Merlin the Wizard advances to (8, 5).
+  Shadow the Rogue advances to (7, 5).
+  Grok the Orc the Monster advances to (12, 5).
+--- Round 7 ---
+  Aragorn the Warrior advances to (8, 5).
+  Merlin the Wizard advances to (9, 5).
+  Shadow the Rogue attacks Grok the Orc for 4 damage!
+  Grok the Orc the Monster attacks Aragorn for 10 damage!
+--- Round 8 ---
+  Aragorn the Warrior attacks Grok the Orc for 2 damage!
+  Merlin the Wizard attacks Grok the Orc but the attack bounces off!
+  Shadow the Rogue attacks Grok the Orc for 2 damage!
+  Grok the Orc the Monster attacks Aragorn for 7 damage!
+--- Round 9 ---
+  Aragorn the Warrior attacks Grok the Orc for 7 damage!
+  Merlin the Wizard attacks Grok the Orc but the attack bounces off!
+  Shadow the Rogue attacks Grok the Orc for 6 damage!
+  Grok the Orc the Monster attacks Aragorn for 4 damage!
+--- Round 10 ---
+  Aragorn the Warrior attacks Grok the Orc for 5 damage!
+  Merlin the Wizard attacks Grok the Orc but the attack bounces off!
+  Shadow the Rogue attacks Grok the Orc for 1 damage!
+  Grok the Orc the Monster attacks Aragorn for 8 damage!
+  Aragorn has fallen!
+--- Round 11 ---
+  Merlin the Wizard attacks Grok the Orc for 1 damage!
+  Shadow the Rogue attacks Grok the Orc for 1 damage!
+  Grok the Orc the Monster attacks Merlin for 5 damage!
+--- Round 12 ---
+  Merlin the Wizard attacks Grok the Orc but the attack bounces off!
+  Shadow the Rogue attacks Grok the Orc for 6 damage!
+  Grok the Orc the Monster attacks Merlin for 5 damage!
+--- Round 13 ---
+  Merlin the Wizard attacks Grok the Orc but the attack bounces off!
+  Shadow the Rogue attacks Grok the Orc for 3 damage!
+  Grok the Orc the Monster attacks Merlin for 8 damage!
+  Merlin has fallen!
+--- Round 14 ---
+  Shadow the Rogue attacks Grok the Orc for 6 damage!
+  Grok the Orc has fallen!
+
+*** The party is victorious! ***
+
+--- Final HP ---
+Aragorn: 0 HP
+Merlin: 0 HP
+Shadow: 20 HP
+Grok the Orc: 0 HP
+
